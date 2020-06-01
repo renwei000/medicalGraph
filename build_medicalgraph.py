@@ -267,4 +267,4 @@ class MedicalGraph:
 
 if __name__ == '__main__':
     handler = MedicalGraph()
-    # handler.export_data()
+    handler.export_data()
